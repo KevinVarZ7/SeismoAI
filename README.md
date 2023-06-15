@@ -4,5 +4,6 @@ Deep Learning applications to seismological analysis: earthquake detection and p
 This repository contains: 
 - synthetic computations of PS wave progapagation in layered geological media, for 2D and 3D cases, based on Indirect Boundary Element Method.
 - Preprocessing modules for seismic signals
+- Real data analysis with different deep learning approaches like convolutional and recurrent neural networks. Applications to seismo-volcanic single-component time series for binary classification, wave phase picking under a multiclassification scheme.
 
 
